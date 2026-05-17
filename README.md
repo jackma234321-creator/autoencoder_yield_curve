@@ -112,6 +112,7 @@ The main empirical findings are:
 
 The notebook uses the following Python packages:
 
+
 ```text
 numpy
 pandas
